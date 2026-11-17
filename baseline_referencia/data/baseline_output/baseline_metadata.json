@@ -1,0 +1,16 @@
+{
+    "arquivo": "data/root/Zee.NTUPLE.root",
+    "arvore": "physics",
+    "entradas": 18,
+    "eventos": 10,
+    "sementes": {
+        "Pythia8": 413654000,
+        "Geant4": 512
+    },
+    "tolerancias_iniciais": {
+        "rtol": 1e-05,
+        "atol": 1e-06
+    },
+    "log_reconstrucao": "logs/reconstrucao.log",
+    "associacao_truth": "ordem dos clusters truth associados por evento"
+}
