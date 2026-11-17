@@ -49,3 +49,14 @@ doc/source/cxx/
 doc/mock_site_packages/
 doc/get-pip.pydoc/venv*/
 doc/source/guides/*.ipynb
+
+# Arquivos temporários do Jupyter
+**/.ipynb_checkpoints/
+
+# Lixeira do sistema
+/.Trash-0/
+
+
+# Artefatos compilados dos testes da Sprint 2
+testes_sprint2/teste_inicializacao_descriptor
+testes_sprint2/*.o
